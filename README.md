@@ -23,5 +23,3 @@ Esta sección contiene experimentos y pruebas con JAX.
 Máster de FP en Inteligencia Artifical y Big Data - CPIFP Alan Turing 
 
 <img src="./img/alan_turing.png" width="150"/>
-
-[Ver cuaderno Jupyter](notebooks/jax_tests.ipynb) 
