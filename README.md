@@ -4,7 +4,7 @@
 
 JAX es una biblioteca de Python diseñada para computación numérica de alto rendimiento, especialmente para la investigación en aprendizaje automático. Fue desarrollada por Google, con contribuciones de NVIDIA y otros colaboradores de la comunidad. Está hecha para que sea muy similar a NumPy y a Python base, pero con una gran capacidad para utilizar GPUs y TPUs y así aumentar la velocidad de procesamiento.
 
-<img src="./img/jax.png" width="150"/>
+<img src="./img/jax.png" width="150"/>  <img src="./img/python.svg" width="100"/>
 
 Para ver toda la investigación realizada para este proyecto, consulta la wiki del repositorio:
 
