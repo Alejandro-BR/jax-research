@@ -19,6 +19,7 @@ Para ver toda la investigación realizada para este proyecto, consulta la wiki d
 
 Para las pruebas realizadas en esta investigación se utilizó el cuaderno que se muestra a continuación.
 En él se llevan a cabo pruebas prácticas con JAX, con el objetivo de explorar sus principales características y compararlo con otros frameworks de aprendizaje automático.
+
 Todo el cuaderno se ejecutó en Google Colab, aprovechando una GPU T4 gratuita para acelerar los cálculos.
 
 [![jax_tests.ipynb](https://img.shields.io/badge/jax_tests.ipynb-GitHub-181717?style=flat&logo=github&logoColor=white)](notebooks/jax_tests.ipynb)    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alejandro-BR/jax-research/blob/main/notebooks/jax_tests.ipynb)    ![Python](https://img.shields.io/badge/python-3.12-blue?style=flat&logo=python&logoColor=white)
