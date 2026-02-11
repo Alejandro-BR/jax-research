@@ -6,11 +6,6 @@ JAX es una biblioteca de Python diseñada para computación numérica de alto re
 
 <img src="./img/jax.png" width="150"/>
 
-
-> [!IMPORTANT]
-> En desarrollo...
->
-
 Para ver toda la investigación realizada para este proyecto, consulta la wiki del repositorio:
 
 👉 [Acceso rápido a la Wiki](https://github.com/Alejandro-BR/jax-research/wiki)
